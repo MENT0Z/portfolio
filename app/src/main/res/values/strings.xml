@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">portfolio</string>
+    <string name="info">Lets Chat is the simple chatting app which allows people to interact with people in real time
+with user friendly interface which uses firebase as its database dn for user authentication</string>
+
+    <string name="my_det"> Hello! I am Madan Raj Upadhyay , a passionate 19-year-old from the enchanting land of Nepal\nCurrently in my second year at SRMIST , I am carving my path in the world of technology. My heart beats for the intricate world of Android app development and the adrenaline rush of competitive coding.
+
+My journey in the realm of coding has equipped me with profound knowledge in competitive coding, Data Structures and Algorithms (DSA), and various programming languages including Java, XML, Kotlin, C++, and Python. I find immense joy in unraveling the complexities of coding problems and creating seamless, user-friendly Android applications.
+
+Driven by curiosity and a relentless pursuit of excellence, I am dedicated to honing my skills and pushing the boundaries of what I can achieve. I thrive on challenges, and my enthusiasm for coding knows no bounds.
+
+Apart from my technical endeavors, I am an avid learner, always seeking to expand my horizons. I believe in the power of innovation and its ability to transform lives. With every line of code I write, I aim to make a positive impact on the world.
+
+    </string>
+
+
+    <string name="todo">to do is the simple app with feature capable of taking note to do list with status , edit , delete , add and update which uses Sqlite database to store task </string>
+
+    <string name="quiz"> This is the one of the best project which allows user to play quiz with different sets and with different categories having different features like bookmarks ,share, pie-chart and many more with interactive UI
+    </string>
+    <string name="weather"> this app allows user to find their current location weather details in home page with changing background as per weather and allows user to find any place weather with amazing ui </string>
+</resources>
